@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+body {
+  background-color: rgb(38, 38, 38);
+  font-family: 'Source Code Pro', monospace;
+  color: rgb(226, 226, 226)
+}
+h1 {
+  text-align: center;
+  color: rgb(221, 233, 255);
+}
+.container {
+  margin: 0 auto;
+  width: 70%;
+  border: 1px solid rgb(232, 202, 202);
+  padding: 20px;
+}
