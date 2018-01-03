@@ -3,7 +3,8 @@
 body {
   background-color: rgb(38, 38, 38);
   font-family: 'Source Code Pro', monospace;
-  color: rgb(226, 226, 226)
+  color: rgb(226, 226, 226);
+  font-size: 1.7em;
 }
 h1 {
   text-align: center;
@@ -14,4 +15,11 @@ h1 {
   width: 70%;
   border: 1px solid rgb(232, 202, 202);
   padding: 20px;
+}
+a {
+  color: rgb(178, 191, 249);
+}
+
+a:visited {
+  color: rgb(167, 255, 231);
 }
