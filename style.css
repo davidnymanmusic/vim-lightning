@@ -23,3 +23,13 @@ a {
 a:visited {
   color: rgb(167, 255, 231);
 }
+a:hover {
+  color: rgb(238, 255, 131);
+}
+
+.footer {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 50px;
+}
